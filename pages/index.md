@@ -14,7 +14,7 @@ A few paragraphs setting the scene and describing the purpose and activities of 
 
 ## Topology
 
-![assets/img/docsy-jekyll.png](assets/img/docsy-jekyll.png)
+![assets/img/docsy-jekyll.png](assets/img/topology.png)
 
 
 
