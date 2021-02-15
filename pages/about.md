@@ -4,10 +4,7 @@ permalink: /about/
 ---
 
 # About
-
-This is a [starter template](https://vsoch.github.com/docsy-jekyll/) for a Docsy jekyll theme, based
-on the Beautiful [Docsy](https://github.com/google/docsy) that renders with Hugo. This version is intended for
-native deployment on GitHub pages. See the [respository]({{ site.repo }}) for more details.
+I use this lab in support of my teaching at Murdoch University as part of the Bachelor of Information Technology, Internetworking and Network Security Major.  However, the labs are developed using my own facilities and in my own time (mostly after midnight!).
 
 ## Support
 
