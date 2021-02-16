@@ -28,11 +28,10 @@ for search at the top or side of the page. Give it a try! The content is rendere
 into window data that is used by lunr.js to generate the search results.
 If you want to exclude any file from search, add this to its front end matter:
 
-```
 <pre>
 sample <b>sample</b> sample
 </pre>
-```
+
 
 The example above is for a javascript file in the assets folder that is used as a template,
 but should not be included in search.
