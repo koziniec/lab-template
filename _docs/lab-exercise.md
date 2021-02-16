@@ -25,10 +25,10 @@ At the end of this lab you should be able to:
 
 
 ## Steps
-### Step 1
+#### Step 1
 Instructions go here
 
-### Step 2
+#### Step 2
 <pre>
 Router><b>enable</b>
 Router#
