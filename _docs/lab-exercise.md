@@ -14,6 +14,7 @@ A brief description of the lab.
 ## Overview
 A few paragraphs setting the scene and describing the purpose and activities of the lab.
 
+<a name="objectives"></a>
 ## Learning Objectives
 At the end of this lab you should be able to:
 - LO 1
