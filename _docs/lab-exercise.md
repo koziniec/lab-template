@@ -21,7 +21,6 @@ A few paragraphs setting the scene and describing the purpose and activities of 
 ![assets/img/topology.png](assets/img/topology.png)
 
 
-
 ## Features
 
 What are these features? You should see the {% include doc.html name="Getting Started" path="getting-started" %}
