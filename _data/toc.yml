@@ -6,7 +6,7 @@
       children:
         - title: Overview
           url: "docs/lab-exercise#overview"
-        - title: Learning Objectives
+        - title: <Learning Objectives>
           url: "docs/lab-exercise#learning_objectives"
         - title: Topology
           url: "docs/lab-exercise#topology"
