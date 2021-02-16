@@ -30,8 +30,10 @@ If you want to exclude any file from search, add this to its front end matter:
 
 ```
 ---
+<pre>
 Router><b>sample</b>
 Router#
+</pre>
 ---
 ```
 
