@@ -1,5 +1,5 @@
 ---
-title: Eve-Topology
+title: EVE Topology
 description: EVE topology downloads
 ---
 
