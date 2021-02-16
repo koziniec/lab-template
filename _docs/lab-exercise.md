@@ -29,7 +29,8 @@ into window data that is used by lunr.js to generate the search results.
 If you want to exclude any file from search, add this to its front end matter:
 
 <pre>
-sample <b>sample</b> sample
+Router><b>enable</b>
+Router#
 </pre>
 
 
