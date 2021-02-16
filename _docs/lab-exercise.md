@@ -1,9 +1,9 @@
 ---
 title: Lab Exercise
 tags: 
- - jekyll
+ - lab
  - github
-description: Getting started with Docsy Jekyll
+description: Lab exercise and steps
 ---
 
 # Getting Started
