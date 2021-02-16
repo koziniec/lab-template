@@ -13,7 +13,7 @@
         - title: Steps
           url: "docs/lab-exercise#steps"
     - title: "EVE Topology Files"
-      url: "docs/eve-topology"
+      url: "docs/eve/eve-topology"
       children:
         - title: Initial Topology
           url: "docs/eve/initial"
