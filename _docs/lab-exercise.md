@@ -30,8 +30,8 @@ If you want to exclude any file from search, add this to its front end matter:
 
 ```
 ---
-layout: null
-excluded_in_search: true
+Router>**enable**
+Router#
 ---
 ```
 
