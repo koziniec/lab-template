@@ -1,15 +1,15 @@
 - title: Documentation
   url: docs
   links:
-    - title: "Getting Started"
-      url: "docs/getting-started"
+    - title: "Lab Exercise"
+      url: "docs/lab-exercise"
       children:
         - title: Features
-          url: "docs/getting-started#getting-started"
+          url: "docs/lab-exercise#getting-started"
         - title: Development
-          url: "docs/getting-started#development"
+          url: "docs/lab-exercise#development"
         - title: Customization
-          url: "docs/getting-started#customization"
+          url: "docs/lab-exercise#customization"
     - title: "Extras"
       url: "docs/extras"
       children:
