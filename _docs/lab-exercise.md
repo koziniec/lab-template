@@ -12,8 +12,9 @@ description: Lab exercise and steps
 A brief description of the purpose of the lab and the technologies covered
 
 ## Learning Objectives
+At the end of this lab you should be able to:
 - LO 1
-- LO2
+- LO 2
 
 ## Topology
 
