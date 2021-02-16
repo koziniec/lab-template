@@ -19,7 +19,7 @@ A few paragraphs setting the scene and describing the purpose and activities of 
 ## Topology
 ![{{ site.baseurl }}/assets/img/topology.png]({{ site.baseurl }}/assets/img/topology.png)
 
-## Learning_Objectives
+## Learning Objectives
 At the end of this lab you should be able to:
 - LO 1
 - LO 2
