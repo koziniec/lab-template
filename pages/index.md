@@ -14,3 +14,4 @@ permalink: /
 
 ## Topology
 
+![assets/img/topology.png](assets/img/topology.png)
