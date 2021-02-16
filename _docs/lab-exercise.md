@@ -11,7 +11,7 @@ description: Lab exercise and steps
 ## Overview
 A brief description of the purpose of the lab and the technologies covered
 
-## Learning_Objectives
+## Learning Objectives
 At the end of this lab you should be able to:
 - LO 1
 - LO 2
