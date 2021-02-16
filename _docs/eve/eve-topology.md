@@ -6,7 +6,8 @@ description: EVE topology downloads
 ## EVE Initial configuration
 [initial.zip]({{ site.baseurl }}{% link _docs/eve/initial.zip %})<br>
 
-This is the file that you should download and work with to complete the lab.
+This is the file that you should download and work with to complete the lab. 
+DO NOT UNZIP the file.  EVE imports the zip files in their compressed format.
 
 ## EVE Final configuration
 [final.zip]({{ site.baseurl }}{% link _docs/eve/final.zip %})<br>
