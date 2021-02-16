@@ -30,7 +30,7 @@ If you want to exclude any file from search, add this to its front end matter:
 
 ```
 ---
-Router>**enable**
+Router>__enable__
 Router#
 ---
 ```
