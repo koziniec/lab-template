@@ -1,22 +1,24 @@
 - title: Documentation
   url: docs
   links:
-    - title: "Getting Started"
-      url: "docs/getting-started"
+    - title: "Lab Exercise"
+      url: "docs/lab-exercise"
       children:
-        - title: Features
-          url: "docs/getting-started#getting-started"
-        - title: Development
-          url: "docs/getting-started#development"
-        - title: Customization
-          url: "docs/getting-started#customization"
-    - title: "Extras"
-      url: "docs/extras"
+        - title: Overview
+          url: "docs/lab-exercise#overview"
+        - title: Learning Objectives
+          url: "docs/lab-exercise#learning_objectives"
+        - title: Topology
+          url: "docs/lab-exercise#topology"
+        - title: Steps
+          url: "docs/lab-exercise#steps"
+    - title: "EVE Topology Files"
+      url: "docs/eve/eve-topology"
       children:
-        - title: Quizzes
-          url: "docs/extras/example-quiz"
-        - title: Tags Page
-          url: "tags"
+        - title: Initial Topology
+          url: "docs/eve/initial"
+        - title: Final Configuration
+          url: "docs/eve/final"
     - title: "About"
       url: "about"
     - title: "News"
