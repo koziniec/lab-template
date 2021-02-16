@@ -2,6 +2,8 @@
 title: Lab Exercise
 tags: 
  - lab
+ - eve
+ - cisco
  - github
 description: Lab exercise and steps
 ---
