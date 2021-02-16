@@ -6,12 +6,11 @@ tags:
 description: Lab exercise and steps
 ---
 
-# Getting Started
+# Lab Title
 
-## Features
+## Overview
 
-### User Interaction
-
+## Topology
 
 On the right side of any page, you'll notice links to edit the page, or
 open an issue. This ensures that any time you have a question or want to 
