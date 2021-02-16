@@ -15,10 +15,10 @@
     - title: "EVE Topology Files"
       url: "docs/eve"
       children:
-        - title: Quizzes
-          url: "docs/extras/example-quiz"
-        - title: Tags Page
-          url: "tags"
+        - title: Initial Topology
+          url: "docs/eve/initial"
+        - title: Final Configuration
+          url: "docs/eve/final"
     - title: "About"
       url: "about"
     - title: "News"
