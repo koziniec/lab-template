@@ -4,7 +4,7 @@ description: EVE topology downloads
 ---
 
 ## EVE Initial configuration
-
+[initial.zip]({{ site.baseurl }}{% _docs/eve/initial.zip %})
 This is the file that you should download and work with to complete the lab.
 
 ## EVE Final configuration
