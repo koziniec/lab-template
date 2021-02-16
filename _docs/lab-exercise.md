@@ -11,7 +11,7 @@ description: Lab exercise and steps
 ## Overview
 A brief description of the purpose of the lab and the technologies covered
 
-## Learning Objectives
+## Learning_Objectives
 At the end of this lab you should be able to:
 - LO 1
 - LO 2
@@ -20,11 +20,12 @@ At the end of this lab you should be able to:
 
 
 
-## Step 1
+## Steps
+### Step 1
 
 Instructions go here
 
-## Step 2
+### Step 2
 
 <pre>
 Router><b>enable</b>
