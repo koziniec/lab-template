@@ -1,7 +1,11 @@
 ---
-layout: page
-title: Docsy Jekyll Theme
-permalink: /
+title: Lab Exercise
+tags: 
+ - lab
+ - eve
+ - cisco
+ - github
+description: Lab exercise and steps
 ---
 
 # Lab Title
