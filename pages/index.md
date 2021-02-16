@@ -1,3 +1,8 @@
+---
+layout: page
+title: Docsy Jekyll Theme
+permalink: /
+---
 # Lab Title
 
 ## Completing this lab
