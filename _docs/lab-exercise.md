@@ -17,7 +17,7 @@ A brief description of the lab.
 A few paragraphs setting the scene and describing the purpose and activities of the lab.
 
 ## Topology
-![assets/img/topology.png](assets/img/topology.png)
+![/assets/img/topology.png](/assets/img/topology.png)
 
 
 ## Features
