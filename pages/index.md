@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Docsy Jekyll Theme
+title: EVE Labs
 permalink: /
 ---
 # Lab Title
