@@ -10,8 +10,8 @@
           url: "docs/lab-exercise#topology"
         - title: Steps
           url: "docs/lab-exercise#steps"
-    - title: "Extras"
-      url: "docs/extras"
+    - title: "EVE Topology Files"
+      url: "docs/eve"
       children:
         - title: Quizzes
           url: "docs/extras/example-quiz"
