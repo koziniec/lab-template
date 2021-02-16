@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Lab Exercise
 tags: 
  - jekyll
  - github
