@@ -5,8 +5,6 @@ permalink: /news/
 
 # News
 
-<br>
-
 {% for post in site.posts limit:10 %}
    <div class="post-preview">
    <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
