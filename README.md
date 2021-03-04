@@ -11,6 +11,7 @@
 ## Preparing the new lab
 - Update values in /_config.yml
 - put all images in: /assets/img
+    - /assets/img/topology.png
 - update copyright licence information in: /pages/about.md 
 - Update lab title and topology image here: /pages/index.md
 - Put EVE topology files here: /_docs/eve   (initial.zip and final.zip)
